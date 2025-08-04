@@ -38,3 +38,5 @@ Successfully created a personalized movie recommendation system that enhances us
 ![Application Screenshot](screenshot1.png) <!-- Add your screenshot path here -->
 ![User Interaction Screenshot](screenshot2.png) <!-- Add another screenshot path if necessary -->
 
+## Drive Link
+walkthrough video - https://drive.google.com/file/d/1htfduW2XX57WXb2yIgn12j-UJwYEL6pT/view?usp=sharing
